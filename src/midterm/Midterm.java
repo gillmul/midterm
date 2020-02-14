@@ -16,7 +16,7 @@ public class Midterm {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-        System.out.println("hello motto");
+        System.out.println("hello world");
     }
     
 }
